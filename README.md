@@ -8,10 +8,6 @@ This project is a work in progress, created as part of my learning journey with 
 - **Technology**: React Native
 - **Purpose**: To build and learn mobile UI development with React Native.
 
-## Learning Source
-
-This project is based on the examples and lessons provided in the "Rockstar Developer 2025" book. It's a hands-on way for me to apply what I'm learning and build practical skills.
-
 ## How to Run
 
 1. Clone the repository.
